@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @bansharee
-- 👀 I’m interested in lesrning new CS stuff (for this account, at least)
+- 👀 I’m interested in using this account for when I'm learning new CS stuff
 - 🌱 I’m currently learning Web Development and Cybersecurity
